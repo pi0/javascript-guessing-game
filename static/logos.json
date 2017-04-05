@@ -607,5 +607,14 @@
   },
   {
     "name": "ZeptoJS"
+  },
+  {
+    "name": "Nuxt"
+  },
+  {
+    "name": "BootstrapVue"
+  },
+  {
+    "name": "Hapi"
   }
 ]
